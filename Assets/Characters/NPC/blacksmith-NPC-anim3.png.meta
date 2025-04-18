@@ -52,7 +52,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -66,7 +66,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -118,20 +118,20 @@ TextureImporter:
       name: blacksmith-NPC-anim3_0
       rect:
         serializedVersion: 2
-        x: 23
-        y: 28
-        width: 50
-        height: 44
+        x: 0
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9487ea28dc3b0c360800000000000000
-      internalID: 7187942700525451337
+      spriteID: 5f7bd02fa8555fb49bf6228fa1c58556
+      internalID: -1292974252
       vertices: []
       indices: 
       edges: []
@@ -140,20 +140,20 @@ TextureImporter:
       name: blacksmith-NPC-anim3_1
       rect:
         serializedVersion: 2
-        x: 119
-        y: 28
-        width: 50
-        height: 45
+        x: 96
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0cee5851e44753260800000000000000
-      internalID: 7076690268199972544
+      spriteID: d5fb9eb0fdccb5e4f8f8edf4c1b23d0a
+      internalID: -1528491983
       vertices: []
       indices: 
       edges: []
@@ -162,20 +162,20 @@ TextureImporter:
       name: blacksmith-NPC-anim3_2
       rect:
         serializedVersion: 2
-        x: 215
-        y: 28
-        width: 50
-        height: 45
+        x: 192
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d3b65bc1d5f277c70800000000000000
-      internalID: 8968689259891747645
+      spriteID: b4c7040c2ebde9b4d9b848ee3ec4bd0b
+      internalID: 627139623
       vertices: []
       indices: 
       edges: []
@@ -184,20 +184,20 @@ TextureImporter:
       name: blacksmith-NPC-anim3_3
       rect:
         serializedVersion: 2
-        x: 311
-        y: 28
-        width: 50
-        height: 44
+        x: 288
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5c234585e9ffb5c70800000000000000
-      internalID: 8961036939135562437
+      spriteID: 3893a02d89f464f4386730a4e95295f5
+      internalID: 1794063470
       vertices: []
       indices: 
       edges: []
@@ -206,20 +206,20 @@ TextureImporter:
       name: blacksmith-NPC-anim3_4
       rect:
         serializedVersion: 2
-        x: 407
-        y: 28
-        width: 50
-        height: 44
+        x: 384
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1bb807edd0115c640800000000000000
-      internalID: 5099500904331119537
+      spriteID: 15328b6ca399c894a9f26fb6d691372b
+      internalID: -1674870016
       vertices: []
       indices: 
       edges: []
@@ -228,20 +228,20 @@ TextureImporter:
       name: blacksmith-NPC-anim3_5
       rect:
         serializedVersion: 2
-        x: 503
-        y: 28
-        width: 50
-        height: 44
+        x: 480
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b002bedc4f9cc7c20800000000000000
-      internalID: 3205659088044892171
+      spriteID: 08f5ddf5b0c5b7b44b6cb4b6b343ea52
+      internalID: -1618553532
       vertices: []
       indices: 
       edges: []
@@ -250,7 +250,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 94427f96fad96c14e9a8e0a18522f31c
     internalID: 0
     vertices: []
     indices: 
@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      blacksmith-NPC-anim3_0: -1292974252
+      blacksmith-NPC-anim3_1: -1528491983
+      blacksmith-NPC-anim3_2: 627139623
+      blacksmith-NPC-anim3_3: 1794063470
+      blacksmith-NPC-anim3_4: -1674870016
+      blacksmith-NPC-anim3_5: -1618553532
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

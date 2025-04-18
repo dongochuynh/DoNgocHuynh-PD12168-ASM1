@@ -58,7 +58,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,7 +72,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -124,20 +124,20 @@ TextureImporter:
       name: Vendor-guy-animation2-bold_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 9
-        width: 72
-        height: 61
+        x: 0
+        y: 0
+        width: 96
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 67729e77936ea9930800000000000000
-      internalID: 4150883141074626422
+      spriteID: bb854650c1ca93f4789b48f4d1d02d1e
+      internalID: -916995171
       vertices: []
       indices: 
       edges: []
@@ -146,20 +146,20 @@ TextureImporter:
       name: Vendor-guy-animation2-bold_1
       rect:
         serializedVersion: 2
-        x: 107
-        y: 9
-        width: 72
-        height: 61
+        x: 96
+        y: 0
+        width: 96
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 99f279d3682dce810800000000000000
-      internalID: 1796041825414754201
+      spriteID: 915a993bfbb7f8a44baa3e092d5bba2b
+      internalID: 402006812
       vertices: []
       indices: 
       edges: []
@@ -168,20 +168,20 @@ TextureImporter:
       name: Vendor-guy-animation2-bold_2
       rect:
         serializedVersion: 2
-        x: 203
-        y: 9
-        width: 72
-        height: 61
+        x: 192
+        y: 0
+        width: 96
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 70a71185d69b88b30800000000000000
-      internalID: 4289882524350511623
+      spriteID: 34d75428bc0ca654d89fe6ae2f47059f
+      internalID: 742449039
       vertices: []
       indices: 
       edges: []
@@ -190,20 +190,20 @@ TextureImporter:
       name: Vendor-guy-animation2-bold_3
       rect:
         serializedVersion: 2
-        x: 299
-        y: 9
-        width: 72
-        height: 61
+        x: 288
+        y: 0
+        width: 96
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b902fbb31d45d1800800000000000000
-      internalID: 584716784255312027
+      spriteID: 19daeaf7857e7514b82acd3f79faa7af
+      internalID: -1211676459
       vertices: []
       indices: 
       edges: []
@@ -212,20 +212,20 @@ TextureImporter:
       name: Vendor-guy-animation2-bold_4
       rect:
         serializedVersion: 2
-        x: 395
-        y: 9
-        width: 72
-        height: 60
+        x: 384
+        y: 0
+        width: 96
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7d709646cd94514f0800000000000000
-      internalID: -858698943017973801
+      spriteID: cfac09542e6f98445a544adf378b856a
+      internalID: 2052995236
       vertices: []
       indices: 
       edges: []
@@ -234,20 +234,20 @@ TextureImporter:
       name: Vendor-guy-animation2-bold_5
       rect:
         serializedVersion: 2
-        x: 491
-        y: 9
-        width: 72
-        height: 60
+        x: 480
+        y: 0
+        width: 96
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3dfd27c9ac1ac6290800000000000000
-      internalID: -7895758155107082285
+      spriteID: d3abc5878e92f394bac6b4066bbe25ca
+      internalID: -514151640
       vertices: []
       indices: 
       edges: []
@@ -256,20 +256,20 @@ TextureImporter:
       name: Vendor-guy-animation2-bold_6
       rect:
         serializedVersion: 2
-        x: 587
-        y: 9
-        width: 72
-        height: 60
+        x: 576
+        y: 0
+        width: 96
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7d3cdea593a16f110800000000000000
-      internalID: 1294250776556585943
+      spriteID: cdf1d124796d6414aaa88fab48c9012e
+      internalID: -880381867
       vertices: []
       indices: 
       edges: []
@@ -278,20 +278,20 @@ TextureImporter:
       name: Vendor-guy-animation2-bold_7
       rect:
         serializedVersion: 2
-        x: 683
-        y: 9
-        width: 72
-        height: 60
+        x: 672
+        y: 0
+        width: 96
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 01ebf4c299e4f4ad0800000000000000
-      internalID: -2715865630500733424
+      spriteID: 3e7256ca06ec6464b8446959baed2ecb
+      internalID: -1277824805
       vertices: []
       indices: 
       edges: []
@@ -300,7 +300,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8fb18555d3467cc469b209c120706366
     internalID: 0
     vertices: []
     indices: 
@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Vendor-guy-animation2-bold_0: -916995171
+      Vendor-guy-animation2-bold_1: 402006812
+      Vendor-guy-animation2-bold_2: 742449039
+      Vendor-guy-animation2-bold_3: -1211676459
+      Vendor-guy-animation2-bold_4: 2052995236
+      Vendor-guy-animation2-bold_5: -514151640
+      Vendor-guy-animation2-bold_6: -880381867
+      Vendor-guy-animation2-bold_7: -1277824805
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -438,7 +438,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -452,7 +452,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -473,7 +473,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -505,10 +505,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_0
       rect:
         serializedVersion: 2
-        x: 48
-        y: 597
-        width: 49
-        height: 49
+        x: 0
+        y: 576
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -528,10 +528,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_1
       rect:
         serializedVersion: 2
-        x: 192
-        y: 597
-        width: 49
-        height: 49
+        x: 144
+        y: 576
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -551,10 +551,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_2
       rect:
         serializedVersion: 2
-        x: 336
-        y: 597
-        width: 49
-        height: 49
+        x: 288
+        y: 576
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -574,10 +574,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_3
       rect:
         serializedVersion: 2
-        x: 480
-        y: 597
-        width: 49
-        height: 49
+        x: 432
+        y: 576
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -597,10 +597,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_4
       rect:
         serializedVersion: 2
-        x: 624
-        y: 597
-        width: 49
-        height: 49
+        x: 576
+        y: 576
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -620,10 +620,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_5
       rect:
         serializedVersion: 2
-        x: 768
-        y: 597
-        width: 49
-        height: 49
+        x: 720
+        y: 576
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -643,10 +643,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_6
       rect:
         serializedVersion: 2
-        x: 912
-        y: 597
-        width: 49
-        height: 49
+        x: 864
+        y: 576
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -666,10 +666,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_7
       rect:
         serializedVersion: 2
-        x: 1056
-        y: 597
-        width: 49
-        height: 49
+        x: 1008
+        y: 576
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -689,10 +689,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_8
       rect:
         serializedVersion: 2
-        x: 1200
-        y: 597
-        width: 49
-        height: 49
+        x: 1152
+        y: 576
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -712,10 +712,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_9
       rect:
         serializedVersion: 2
-        x: 1344
-        y: 597
-        width: 49
-        height: 49
+        x: 1296
+        y: 576
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -735,10 +735,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_10
       rect:
         serializedVersion: 2
-        x: 1488
-        y: 597
-        width: 49
-        height: 49
+        x: 1440
+        y: 576
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -758,10 +758,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_11
       rect:
         serializedVersion: 2
-        x: 1632
-        y: 597
-        width: 49
-        height: 49
+        x: 1584
+        y: 576
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -781,10 +781,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_12
       rect:
         serializedVersion: 2
-        x: 1776
-        y: 597
-        width: 49
-        height: 48
+        x: 1728
+        y: 576
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -804,10 +804,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_13
       rect:
         serializedVersion: 2
-        x: 1920
-        y: 597
-        width: 49
-        height: 48
+        x: 1872
+        y: 576
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -827,10 +827,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_14
       rect:
         serializedVersion: 2
-        x: 2064
-        y: 597
-        width: 49
-        height: 48
+        x: 2016
+        y: 576
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -850,10 +850,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_15
       rect:
         serializedVersion: 2
-        x: 2208
-        y: 597
-        width: 49
-        height: 49
+        x: 2160
+        y: 576
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -873,10 +873,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_16
       rect:
         serializedVersion: 2
-        x: 49
-        y: 502
-        width: 38
-        height: 49
+        x: 0
+        y: 480
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -896,10 +896,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_17
       rect:
         serializedVersion: 2
-        x: 192
-        y: 503
-        width: 38
-        height: 49
+        x: 144
+        y: 480
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -919,10 +919,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_18
       rect:
         serializedVersion: 2
-        x: 338
-        y: 501
-        width: 35
-        height: 50
+        x: 288
+        y: 480
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -942,10 +942,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_19
       rect:
         serializedVersion: 2
-        x: 484
-        y: 501
-        width: 30
-        height: 47
+        x: 432
+        y: 480
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -965,10 +965,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_20
       rect:
         serializedVersion: 2
-        x: 629
-        y: 502
-        width: 29
-        height: 49
+        x: 576
+        y: 480
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -988,10 +988,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_21
       rect:
         serializedVersion: 2
-        x: 774
-        y: 505
-        width: 31
-        height: 47
+        x: 720
+        y: 480
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1011,10 +1011,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_22
       rect:
         serializedVersion: 2
-        x: 920
-        y: 501
-        width: 28
-        height: 49
+        x: 864
+        y: 480
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1034,10 +1034,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_23
       rect:
         serializedVersion: 2
-        x: 1062
-        y: 501
-        width: 30
-        height: 46
+        x: 1008
+        y: 480
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1057,10 +1057,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_24
       rect:
         serializedVersion: 2
-        x: 45
-        y: 405
-        width: 49
-        height: 49
+        x: 0
+        y: 384
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1080,10 +1080,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_25
       rect:
         serializedVersion: 2
-        x: 188
-        y: 405
-        width: 50
-        height: 50
+        x: 144
+        y: 384
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1103,10 +1103,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_26
       rect:
         serializedVersion: 2
-        x: 334
-        y: 399
-        width: 62
-        height: 52
+        x: 288
+        y: 384
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1126,10 +1126,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_27
       rect:
         serializedVersion: 2
-        x: 470
-        y: 400
-        width: 44
-        height: 49
+        x: 432
+        y: 384
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1149,10 +1149,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_28
       rect:
         serializedVersion: 2
-        x: 613
-        y: 405
-        width: 45
-        height: 44
+        x: 576
+        y: 384
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1172,10 +1172,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_29
       rect:
         serializedVersion: 2
-        x: 747
-        y: 405
-        width: 55
-        height: 45
+        x: 720
+        y: 384
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1195,10 +1195,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_30
       rect:
         serializedVersion: 2
-        x: 890
-        y: 405
-        width: 55
-        height: 46
+        x: 864
+        y: 384
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1218,10 +1218,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_31
       rect:
         serializedVersion: 2
-        x: 1042
-        y: 404
-        width: 95
-        height: 52
+        x: 1008
+        y: 384
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1241,10 +1241,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_32
       rect:
         serializedVersion: 2
-        x: 1206
-        y: 405
-        width: 31
-        height: 49
+        x: 1152
+        y: 384
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1264,10 +1264,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_33
       rect:
         serializedVersion: 2
-        x: 1236
-        y: 412
-        width: 37
-        height: 21
+        x: 1296
+        y: 384
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1287,10 +1287,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_34
       rect:
         serializedVersion: 2
-        x: 1337
-        y: 405
-        width: 33
-        height: 47
+        x: 1440
+        y: 384
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1310,10 +1310,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_35
       rect:
         serializedVersion: 2
-        x: 1479
-        y: 405
-        width: 31
-        height: 46
+        x: 1584
+        y: 384
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1333,10 +1333,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_36
       rect:
         serializedVersion: 2
-        x: 1623
-        y: 405
-        width: 31
-        height: 46
+        x: 1728
+        y: 384
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1356,10 +1356,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_37
       rect:
         serializedVersion: 2
-        x: 1784
-        y: 405
-        width: 36
-        height: 49
+        x: 1872
+        y: 384
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1379,10 +1379,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_38
       rect:
         serializedVersion: 2
-        x: 1929
-        y: 405
-        width: 85
-        height: 46
+        x: 2016
+        y: 384
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1402,10 +1402,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_39
       rect:
         serializedVersion: 2
-        x: 2073
-        y: 405
-        width: 86
-        height: 47
+        x: 2160
+        y: 384
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1425,10 +1425,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_40
       rect:
         serializedVersion: 2
-        x: 2217
-        y: 405
-        width: 86
-        height: 47
+        x: 2304
+        y: 384
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1448,10 +1448,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_41
       rect:
         serializedVersion: 2
-        x: 2361
-        y: 405
-        width: 86
-        height: 47
+        x: 2448
+        y: 384
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1471,10 +1471,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_42
       rect:
         serializedVersion: 2
-        x: 2509
-        y: 405
-        width: 62
-        height: 48
+        x: 2592
+        y: 384
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1494,10 +1494,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_43
       rect:
         serializedVersion: 2
-        x: 2653
-        y: 405
-        width: 60
-        height: 48
+        x: 2736
+        y: 384
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1517,10 +1517,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_44
       rect:
         serializedVersion: 2
-        x: 2792
-        y: 405
-        width: 56
-        height: 49
+        x: 2880
+        y: 384
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1540,10 +1540,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_45
       rect:
         serializedVersion: 2
-        x: 2932
-        y: 405
-        width: 44
-        height: 53
+        x: 3024
+        y: 384
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1563,10 +1563,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_46
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 405
-        width: 49
-        height: 49
+        x: 0
+        y: 288
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1586,10 +1586,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_47
       rect:
         serializedVersion: 2
-        x: 45
-        y: 309
-        width: 49
-        height: 49
+        x: 144
+        y: 288
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1609,10 +1609,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_48
       rect:
         serializedVersion: 2
-        x: 188
-        y: 309
-        width: 50
-        height: 50
+        x: 288
+        y: 288
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1632,10 +1632,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_49
       rect:
         serializedVersion: 2
-        x: 334
-        y: 303
-        width: 62
-        height: 52
+        x: 432
+        y: 288
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1655,10 +1655,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_50
       rect:
         serializedVersion: 2
-        x: 470
-        y: 304
-        width: 44
-        height: 49
+        x: 576
+        y: 288
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1678,10 +1678,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_51
       rect:
         serializedVersion: 2
-        x: 613
-        y: 309
-        width: 45
-        height: 44
+        x: 720
+        y: 288
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1701,10 +1701,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_52
       rect:
         serializedVersion: 2
-        x: 757
-        y: 309
-        width: 45
-        height: 44
+        x: 864
+        y: 288
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1724,10 +1724,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_53
       rect:
         serializedVersion: 2
-        x: 901
-        y: 309
-        width: 45
-        height: 44
+        x: 1008
+        y: 288
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1747,10 +1747,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_54
       rect:
         serializedVersion: 2
-        x: 1058
-        y: 303
-        width: 37
-        height: 51
+        x: 1152
+        y: 288
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1770,10 +1770,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_55
       rect:
         serializedVersion: 2
-        x: 1208
-        y: 309
-        width: 56
-        height: 49
+        x: 1296
+        y: 288
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1793,10 +1793,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_56
       rect:
         serializedVersion: 2
-        x: 1348
-        y: 309
-        width: 44
-        height: 53
+        x: 1440
+        y: 288
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1816,10 +1816,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_57
       rect:
         serializedVersion: 2
-        x: 1488
-        y: 309
-        width: 49
-        height: 49
+        x: 0
+        y: 192
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1839,10 +1839,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_58
       rect:
         serializedVersion: 2
-        x: 48
-        y: 213
-        width: 49
-        height: 49
+        x: 144
+        y: 192
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1862,10 +1862,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_59
       rect:
         serializedVersion: 2
-        x: 196
-        y: 213
-        width: 40
-        height: 62
+        x: 288
+        y: 192
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1885,10 +1885,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_60
       rect:
         serializedVersion: 2
-        x: 346
-        y: 213
-        width: 40
-        height: 49
+        x: 432
+        y: 192
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1908,10 +1908,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_61
       rect:
         serializedVersion: 2
-        x: 473
-        y: 213
-        width: 33
-        height: 47
+        x: 576
+        y: 192
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1931,10 +1931,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_62
       rect:
         serializedVersion: 2
-        x: 615
-        y: 213
-        width: 31
-        height: 46
+        x: 720
+        y: 192
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1954,10 +1954,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_63
       rect:
         serializedVersion: 2
-        x: 759
-        y: 213
-        width: 31
-        height: 46
+        x: 864
+        y: 192
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1977,10 +1977,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_64
       rect:
         serializedVersion: 2
-        x: 920
-        y: 213
-        width: 36
-        height: 49
+        x: 1008
+        y: 192
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2000,10 +2000,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_65
       rect:
         serializedVersion: 2
-        x: 1065
-        y: 213
-        width: 85
-        height: 46
+        x: 1152
+        y: 192
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2023,10 +2023,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_66
       rect:
         serializedVersion: 2
-        x: 1209
-        y: 213
-        width: 86
-        height: 47
+        x: 1296
+        y: 192
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2046,10 +2046,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_67
       rect:
         serializedVersion: 2
-        x: 1353
-        y: 213
-        width: 86
-        height: 47
+        x: 1440
+        y: 192
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2069,10 +2069,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_68
       rect:
         serializedVersion: 2
-        x: 1497
-        y: 213
-        width: 86
-        height: 47
+        x: 1584
+        y: 192
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2092,10 +2092,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_69
       rect:
         serializedVersion: 2
-        x: 1645
-        y: 213
-        width: 62
-        height: 48
+        x: 1728
+        y: 192
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2115,10 +2115,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_70
       rect:
         serializedVersion: 2
-        x: 1789
-        y: 213
-        width: 60
-        height: 48
+        x: 1872
+        y: 192
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2138,10 +2138,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_71
       rect:
         serializedVersion: 2
-        x: 1928
-        y: 213
-        width: 56
-        height: 49
+        x: 2016
+        y: 192
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2161,10 +2161,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_72
       rect:
         serializedVersion: 2
-        x: 2068
-        y: 213
-        width: 44
-        height: 53
+        x: 2160
+        y: 192
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2184,10 +2184,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_73
       rect:
         serializedVersion: 2
-        x: 2208
-        y: 213
-        width: 49
-        height: 49
+        x: 0
+        y: 96
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2207,10 +2207,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_74
       rect:
         serializedVersion: 2
-        x: 38
-        y: 117
-        width: 53
-        height: 69
+        x: 144
+        y: 96
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2230,10 +2230,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_75
       rect:
         serializedVersion: 2
-        x: 185
-        y: 117
-        width: 53
-        height: 69
+        x: 288
+        y: 96
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2253,10 +2253,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_76
       rect:
         serializedVersion: 2
-        x: 332
-        y: 117
-        width: 50
-        height: 70
+        x: 432
+        y: 96
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2276,10 +2276,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_77
       rect:
         serializedVersion: 2
-        x: 481
-        y: 117
-        width: 47
-        height: 69
+        x: 576
+        y: 96
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2299,10 +2299,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_78
       rect:
         serializedVersion: 2
-        x: 628
-        y: 117
-        width: 41
-        height: 62
+        x: 720
+        y: 96
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2322,10 +2322,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_79
       rect:
         serializedVersion: 2
-        x: 768
-        y: 117
-        width: 49
-        height: 50
+        x: 864
+        y: 96
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2345,10 +2345,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_80
       rect:
         serializedVersion: 2
-        x: 912
-        y: 117
-        width: 49
-        height: 49
+        x: 1008
+        y: 96
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2368,10 +2368,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_81
       rect:
         serializedVersion: 2
-        x: 1056
-        y: 117
-        width: 49
-        height: 49
+        x: 0
+        y: 0
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2391,10 +2391,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_82
       rect:
         serializedVersion: 2
-        x: 38
-        y: 21
-        width: 53
-        height: 70
+        x: 144
+        y: 0
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2414,10 +2414,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_83
       rect:
         serializedVersion: 2
-        x: 185
-        y: 21
-        width: 69
-        height: 75
+        x: 288
+        y: 0
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2437,10 +2437,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_84
       rect:
         serializedVersion: 2
-        x: 332
-        y: 21
-        width: 78
-        height: 74
+        x: 432
+        y: 0
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2460,10 +2460,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_85
       rect:
         serializedVersion: 2
-        x: 484
-        y: 21
-        width: 45
-        height: 57
+        x: 576
+        y: 0
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2483,10 +2483,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_86
       rect:
         serializedVersion: 2
-        x: 627
-        y: 19
-        width: 45
-        height: 46
+        x: 720
+        y: 0
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2506,10 +2506,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_87
       rect:
         serializedVersion: 2
-        x: 771
-        y: 19
-        width: 45
-        height: 48
+        x: 864
+        y: 0
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2529,10 +2529,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_88
       rect:
         serializedVersion: 2
-        x: 915
-        y: 19
-        width: 45
-        height: 46
+        x: 1008
+        y: 0
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2552,10 +2552,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_89
       rect:
         serializedVersion: 2
-        x: 1059
-        y: 19
-        width: 45
-        height: 46
+        x: 1152
+        y: 0
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2575,10 +2575,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_90
       rect:
         serializedVersion: 2
-        x: 1203
-        y: 19
-        width: 45
-        height: 47
+        x: 1296
+        y: 0
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2598,10 +2598,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_91
       rect:
         serializedVersion: 2
-        x: 1347
-        y: 19
-        width: 45
-        height: 45
+        x: 1440
+        y: 0
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2621,10 +2621,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_92
       rect:
         serializedVersion: 2
-        x: 1491
-        y: 19
-        width: 45
-        height: 44
+        x: 1584
+        y: 0
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2644,10 +2644,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_93
       rect:
         serializedVersion: 2
-        x: 1635
-        y: 19
-        width: 45
-        height: 43
+        x: 1728
+        y: 0
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2667,10 +2667,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_94
       rect:
         serializedVersion: 2
-        x: 1779
-        y: 19
-        width: 45
-        height: 43
+        x: 1872
+        y: 0
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2690,10 +2690,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_95
       rect:
         serializedVersion: 2
-        x: 1923
-        y: 19
-        width: 45
-        height: 43
+        x: 2016
+        y: 0
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2713,10 +2713,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_96
       rect:
         serializedVersion: 2
-        x: 2067
-        y: 19
-        width: 45
-        height: 43
+        x: 2160
+        y: 0
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2736,10 +2736,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_97
       rect:
         serializedVersion: 2
-        x: 2211
-        y: 19
-        width: 45
-        height: 43
+        x: 2304
+        y: 0
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2759,10 +2759,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_98
       rect:
         serializedVersion: 2
-        x: 2355
-        y: 19
-        width: 45
-        height: 43
+        x: 2448
+        y: 0
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2782,10 +2782,10 @@ TextureImporter:
         with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_99
       rect:
         serializedVersion: 2
-        x: 2499
-        y: 19
-        width: 45
-        height: 43
+        x: 2592
+        y: 0
+        width: 144
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2800,34 +2800,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: warrior-all-animations-from top to bottom(Idle-run-full combo attack
-        with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_100
-      rect:
-        serializedVersion: 2
-        x: 2643
-        y: 19
-        width: 45
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9beb90c6d32a9fa20800000000000000
-      internalID: 3096684603483209401
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 09c0ba10e73c010469855b9d194ac891
     internalID: 0
     vertices: []
     indices: 
@@ -2836,7 +2813,107 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_0: -4362965166405141809
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_1: 3264551027848300254
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_10: 6108649456771526902
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_11: -828911032281113285
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_12: -427195412041043163
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_13: 6534360212977246743
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_14: -1504120795240577527
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_15: 6273133078235854196
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_16: 8162388442060761135
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_17: 2680559359668877498
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_18: -7956884689844255891
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_19: -7447633325334475264
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_2: 7559365431678657628
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_20: -8731590457233674272
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_21: -2967610699580480457
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_22: -4618843778446112132
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_23: 7094509215489567320
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_24: -4458168980428574165
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_25: 9015554338963353919
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_26: -1339842385172863775
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_27: 8019819143377909400
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_28: -8171042628003776638
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_29: -1179328895205574637
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_3: -4676266716694373142
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_30: -1447327981713969134
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_31: -5585531627437553470
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_32: -5061934642186931313
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_33: -7733606542347036055
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_34: 8886779280654560518
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_35: -5296921330065581948
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_36: -1364452231338095353
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_37: 4580698108979849984
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_38: 4265085279439666431
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_39: 1393443708667942571
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_4: -2766347731325800975
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_40: 3056687644076029089
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_41: -39401162346507286
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_42: -1441372274466360264
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_43: 7106983942379445956
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_44: -8940481850165555885
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_45: 4244997855076234395
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_46: 8607165352753581255
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_47: -6748894324262147530
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_48: 5496400124864545993
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_49: 4778539918004672174
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_5: -8071392749279924796
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_50: 5184574640403404698
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_51: 2380810459757018441
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_52: 9060416848948558075
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_53: 3345810642104994657
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_54: 1197077859544887598
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_55: 2955369423463799206
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_56: -1429815352646796670
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_57: 8156160573949246809
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_58: -3131994552696413212
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_59: -4489992217123524836
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_6: -1365753713147425933
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_60: 6558056416081675492
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_61: 7893527927963441683
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_62: -5720050942309358071
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_63: -109259102035796268
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_64: 8969666492772081734
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_65: 4816052152464667971
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_66: 3990450732100026655
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_67: 904513096872730236
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_68: 6833780977975300887
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_69: 5611190109067833136
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_7: -945097971148641240
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_70: -605063224385114270
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_71: -57585412765592770
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_72: -946293576127801093
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_73: -4795680356460322598
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_74: 4451026993111631269
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_75: 3552830626595552012
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_76: 4591078690417341927
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_77: -38342140140765164
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_78: 457949762924310351
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_79: -3300409091616004705
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_8: 4182165798822174587
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_80: -2604936194052927263
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_81: -2439331174352337061
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_82: -6091073026870639359
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_83: 1228373532248115339
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_84: 9139596191603779423
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_85: 2370629299092225868
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_86: 3269780269587903509
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_87: -2427309946851401010
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_88: -5559909474996275876
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_89: 3953069316781388005
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_9: 104452562527735472
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_90: 2716597190258787460
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_91: 8223784898381958134
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_92: -1110731269071267146
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_93: 9175290791477430202
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_94: -5287022832317774464
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_95: 1435413863509307207
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_96: 8230506490165194882
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_97: -3769361876390096341
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_98: 2345565998244967473
+      warrior-all-animations-from top to bottom(Idle-run-full combo attack with 3 swings-single swing 1-single swing 3-hurt-death)-canvas 144x96_99: 9087961800167377701
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

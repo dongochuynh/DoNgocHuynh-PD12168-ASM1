@@ -58,7 +58,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,7 +72,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -124,20 +124,20 @@ TextureImporter:
       name: Vendor-guy-animation2-hair2_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 9
-        width: 72
-        height: 61
+        x: 0
+        y: 0
+        width: 96
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 317f67f9461cbba20800000000000000
-      internalID: 3079267408154130195
+      spriteID: 7dce70ddca1fb194b82b38a8d2da075a
+      internalID: -2109172739
       vertices: []
       indices: 
       edges: []
@@ -146,20 +146,20 @@ TextureImporter:
       name: Vendor-guy-animation2-hair2_1
       rect:
         serializedVersion: 2
-        x: 107
-        y: 9
-        width: 72
-        height: 61
+        x: 96
+        y: 0
+        width: 96
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b04b30d14c1b70110800000000000000
-      internalID: 1227144879340237835
+      spriteID: cbce7bb59f34da0488717fcae01a22c4
+      internalID: 100868395
       vertices: []
       indices: 
       edges: []
@@ -168,20 +168,20 @@ TextureImporter:
       name: Vendor-guy-animation2-hair2_2
       rect:
         serializedVersion: 2
-        x: 203
-        y: 9
-        width: 72
-        height: 61
+        x: 192
+        y: 0
+        width: 96
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1f2b7d93b9cd42d40800000000000000
-      internalID: 5558810399330513649
+      spriteID: fa857da8337b4f44faef54ff88a4ae68
+      internalID: -1047897925
       vertices: []
       indices: 
       edges: []
@@ -190,20 +190,20 @@ TextureImporter:
       name: Vendor-guy-animation2-hair2_3
       rect:
         serializedVersion: 2
-        x: 299
-        y: 9
-        width: 72
-        height: 61
+        x: 288
+        y: 0
+        width: 96
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c2ddc59846b92bff0800000000000000
-      internalID: -21784192079831764
+      spriteID: dbd0de26f4a1236409337c0fc2bddcaa
+      internalID: -1553716646
       vertices: []
       indices: 
       edges: []
@@ -212,20 +212,20 @@ TextureImporter:
       name: Vendor-guy-animation2-hair2_4
       rect:
         serializedVersion: 2
-        x: 395
-        y: 9
-        width: 72
-        height: 60
+        x: 384
+        y: 0
+        width: 96
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d1f2aae4725904060800000000000000
-      internalID: 6935707422206603037
+      spriteID: bc50c08680efb2841b7d02854c507a92
+      internalID: -704315674
       vertices: []
       indices: 
       edges: []
@@ -234,20 +234,20 @@ TextureImporter:
       name: Vendor-guy-animation2-hair2_5
       rect:
         serializedVersion: 2
-        x: 491
-        y: 9
-        width: 72
-        height: 60
+        x: 480
+        y: 0
+        width: 96
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5d21c3612a7c76360800000000000000
-      internalID: 7162913231327728341
+      spriteID: 387711d2ee6b18d4c9e8c3a838f49728
+      internalID: -1503704298
       vertices: []
       indices: 
       edges: []
@@ -256,20 +256,20 @@ TextureImporter:
       name: Vendor-guy-animation2-hair2_6
       rect:
         serializedVersion: 2
-        x: 587
-        y: 9
-        width: 72
-        height: 60
+        x: 576
+        y: 0
+        width: 96
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 78256f016c4e370b0800000000000000
-      internalID: -5731986361373273465
+      spriteID: 21396479e2655c24b9cc1e997d80c561
+      internalID: 36489204
       vertices: []
       indices: 
       edges: []
@@ -278,20 +278,20 @@ TextureImporter:
       name: Vendor-guy-animation2-hair2_7
       rect:
         serializedVersion: 2
-        x: 683
-        y: 9
-        width: 72
-        height: 60
+        x: 672
+        y: 0
+        width: 96
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ab298cdf5ea8c2e00800000000000000
-      internalID: 1021343935916184250
+      spriteID: 6285575371b551741ba3cc6161e9368c
+      internalID: 1131540626
       vertices: []
       indices: 
       edges: []
@@ -300,7 +300,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 845035481b0e1904f873e2b49d23297a
     internalID: 0
     vertices: []
     indices: 
@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Vendor-guy-animation2-hair2_0: -2109172739
+      Vendor-guy-animation2-hair2_1: 100868395
+      Vendor-guy-animation2-hair2_2: -1047897925
+      Vendor-guy-animation2-hair2_3: -1553716646
+      Vendor-guy-animation2-hair2_4: -704315674
+      Vendor-guy-animation2-hair2_5: -1503704298
+      Vendor-guy-animation2-hair2_6: 36489204
+      Vendor-guy-animation2-hair2_7: 1131540626
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
